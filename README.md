@@ -1,4 +1,4 @@
-# Pac
+# Pacman
 https://bharathikannan-mca-23.github.io/pacman/
 
 **Description:**
