@@ -1,5 +1,4 @@
-# Pacman
-https://bharathikannan-mca-23.github.io/pacman/
+ **Pacman**
 
 **Description:**
 In Pacman project, Create a one Pacman and its detect the screen edge to the Pacman animation. When the pacman detect it's edge it turn back and move on the screen.
